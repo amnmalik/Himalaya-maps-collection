@@ -10,7 +10,7 @@ Contains links to online and storedmaps to the Indian Himalaya
  - JPG (undigitised) SOI maps of HP [here](https://drive.google.com/drive/folders/12ytr49xf-BfW6nWF9lmf1zutn30x7F-G?usp=share_link). These are possibly of lower quality than the above sources.
  - JPG and PDF (undigitised) SOI maps of Arunahcal Pradesh [here](https://drive.google.com/drive/folders/1cMqtOtj4B2keOzUcKbjl_5nD3sTrHqIk). These are possibly of lower quality than the above sources.
 
-2. Planning of traverses of Peter
+2. Planning of Peter's traverses
   - [Planning for 2018](https://docs.google.com/spreadsheets/d/1Mwh_pdnZZ9s0mKjlSttOAi4xEd1lpaqNAHQn3azCxNM/edit?usp=share_link)
   - [Planning for 2019](https://docs.google.com/spreadsheets/d/1-qUtim0tkyf8ithci2npaQvd1yGtu7rrRQ38_5-Uu_g/edit?usp=share_link)
   - [Planning for 2020](https://docs.google.com/spreadsheets/d/17mMFSx5PnlDV2AwY6_-okq_WjcnP8NwElzCSo6TUcNY/edit?usp=share_link)
@@ -22,4 +22,15 @@ Contains links to online and storedmaps to the Indian Himalaya
    - [ALOS](https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm) ~ 30 m Global dataset
    - [NSIDC](https://nsidc.org/data/HMA_DEM8m_AT/versions/1) ~ 8 m resolution
 
-4. 
+4. Peter's presentations on how to do minimalistic and speed hiking
+  - [Trans Himachal 2018 Planning & Preparation](https://docs.google.com/presentation/d/1cun5EUrzfjQwwPFuCau6yKs-VLt4_QGunpqg1Ec2Xx8/edit?usp=share_link)
+  - [Trans Himachal 2019 Planning & Preparation](https://docs.google.com/presentation/d/118MNT2uXTFfZD5KX5v9Qt_wh5nCbdQ_8Uq_dv3erVuY/edit?usp=share_link)
+  - [Fast Hiking and minimalism](https://docs.google.com/presentation/d/1IvxxWQ8KjKO52AiI0kl3HBoMWkMbP3OZUPt4tsO8Evo/edit?usp=share_link)
+  - [Maps and Navigation](https://docs.google.com/presentation/d/1ZBfQV1zKQtIhQvYSaddc_Kj3re3oMIyd2JE1N02O9PY/edit?usp=share_link)
+  - [Spiti traverse](https://docs.google.com/presentation/d/1cun5EUrzfjQwwPFuCau6yKs-VLt4_QGunpqg1Ec2Xx8/edit?usp=share_link)
+  - [Stok range](https://docs.google.com/presentation/d/1cun5EUrzfjQwwPFuCau6yKs-VLt4_QGunpqg1Ec2Xx8/edit?usp=share_link)
+  
+  5. Digitised SOI maps (UK and HP)
+  - [Link](https://drive.google.com/drive/folders/1mTiamynivsrvFYHqhg-UgCRTyeI7hNg6?usp=share_link)
+ 
+ 
