@@ -9,6 +9,7 @@ Contains links to online and storedmaps to the Indian Himalaya
  - JPG (undigitised) SOI Maps of Uttarkhand [here](https://drive.google.com/drive/folders/1vl2tEoF0_LKDIVt1ZbbvcQ_yx7dKIPpd). These are possibly of lower quality than the above sources.
  - JPG (undigitised) SOI maps of HP [here](https://drive.google.com/drive/folders/12ytr49xf-BfW6nWF9lmf1zutn30x7F-G?usp=share_link). These are possibly of lower quality than the above sources.
  - JPG and PDF (undigitised) SOI maps of Arunahcal Pradesh [here](https://drive.google.com/drive/folders/1cMqtOtj4B2keOzUcKbjl_5nD3sTrHqIk). These are possibly of lower quality than the above sources.
+ - Check which suvey map is in which state [here](https://www.indigeo.com/iMap.html#5/22.870/82.724)
 
 2. Planning of Peter's traverses
   - [Planning for 2018](https://docs.google.com/spreadsheets/d/1Mwh_pdnZZ9s0mKjlSttOAi4xEd1lpaqNAHQn3azCxNM/edit?usp=share_link)
