@@ -17,13 +17,7 @@ Contains links to online and storedmaps to the Indian Himalaya
   - [Planning for 2020](https://docs.google.com/spreadsheets/d/17mMFSx5PnlDV2AwY6_-okq_WjcnP8NwElzCSo6TUcNY/edit?usp=share_link)
 
 
-3. DEM for the Himalaya
-   - [Bhuvan](https://bhuvan-app3.nrsc.gov.in/data/download/index.php) ~ 30 m resolution
-   - [SRTM](https://dwtkns.com/srtm30m/) ~ 30 m resolution
-   - [ALOS](https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm) ~ 30 m Global dataset
-   - [NSIDC](https://nsidc.org/data/HMA_DEM8m_AT/versions/1) ~ 8 m resolution
-
-4. Peter's presentations on how to do minimalistic and speed hiking
+3. Peter's presentations on how to do minimalistic and speed hiking
   - [Trans Himachal 2018 Planning & Preparation](https://docs.google.com/presentation/d/1cun5EUrzfjQwwPFuCau6yKs-VLt4_QGunpqg1Ec2Xx8/edit?usp=share_link)
   - [Trans Himachal 2019 Planning & Preparation](https://docs.google.com/presentation/d/118MNT2uXTFfZD5KX5v9Qt_wh5nCbdQ_8Uq_dv3erVuY/edit?usp=share_link)
   - [Fast Hiking and minimalism](https://docs.google.com/presentation/d/1IvxxWQ8KjKO52AiI0kl3HBoMWkMbP3OZUPt4tsO8Evo/edit?usp=share_link)
